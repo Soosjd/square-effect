@@ -1,0 +1,8 @@
+to start real time
+python main.py --realtime
+to stop
+q
+to start with seperate video and audio file
+python main.py -i "c:\Users\Admin\playing_dead.mp4.mp4" -o "c:\Users\Admin\output_with_boxes.mp4" --audio "c:\Users\Admin\Downloads\SPOOKY (PHONK).mp3"
+to start with video
+python main.py -i "c:\Users\Admin\playing_dead.mp4.mp4" -o "c:\Users\Admin\output_with_boxes.mp4"
